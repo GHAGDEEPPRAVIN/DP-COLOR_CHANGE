@@ -4,7 +4,7 @@ A simple color generator that provides random colors and their respective HEX, R
 
 ## 📹 Demo Video
 
-<video scr="22-57-36.mp4"></video>
+[Watch the demo](bgchanger.gif)
 
 Click the image above to watch the demo video.
 
