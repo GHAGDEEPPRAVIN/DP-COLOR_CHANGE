@@ -29,7 +29,7 @@ npm start
 
 ## 🖼️ Screenshot
 
-![Color Generator Preview](screenshot.png)
+![Color Generator Preview](bgchangerimage.png)
 
 ## 🤝 Contributing
 Feel free to submit pull requests or report issues.
