@@ -16,7 +16,7 @@ Click the image above to watch the demo video.
 ## 📂 Installation
 
 ```sh
-git clone https://github.com/your-username/color-generator.git
+git clone (https://github.com/GHAGDEEPPRAVIN/DG-JAVASCRIPT/tree/main/DOM/background%20color%20change)
 cd color-generator
 npm install
 npm start
