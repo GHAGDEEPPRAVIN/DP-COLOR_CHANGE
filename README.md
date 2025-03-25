@@ -4,7 +4,7 @@ A simple color generator that provides random colors and their respective HEX, R
 
 ## 📹 Demo Video
 
-[Watch the demo](bgchanger.gif)
+<img src="bgchanger.gif">
 
 Click the image above to watch the demo video.
 
@@ -12,15 +12,6 @@ Click the image above to watch the demo video.
 - Generate random colors
 - Copy color codes (HEX, RGB, HSL)
 - Dark/Light mode support
-
-## 📂 Installation
-
-```sh
-git clone (https://github.com/GHAGDEEPPRAVIN/DG-JAVASCRIPT/tree/main/DOM/background%20color%20change)
-cd color-generator
-npm install
-npm start
-```
 
 ## 🛠️ Usage
 1. Click the **Generate** button to get a new color.
