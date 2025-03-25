@@ -4,7 +4,9 @@ A simple color generator that provides random colors and their respective HEX, R
 
 ## 📹 Demo Video
 
-<img src="bgchanger.gif">
+<a href="https://delicate-cucurucho-341ea8.netlify.app/">
+  <img src="bgchanger.gif">
+</a>
 
 Click the image above to watch the demo video.
 
